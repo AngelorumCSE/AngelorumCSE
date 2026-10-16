@@ -29,7 +29,7 @@ Desarrollo proyectos de **aprendizaje automático**, **visión artificial** y **
       <a href="https://digitos-mnist.streamlit.app"><img src="img/digitos.png" alt="La web reconociendo la foto de un 4 escrito a mano"></a>
       <h3><a href="https://github.com/AngelorumCSE/reconocimiento-digitos-manuscritos">Reconocimiento de dígitos manuscritos</a></h3>
       <p>Siete métodos comparados en MNIST, de plantillas con SSIM a una red convolucional, y reconocimiento en directo con la webcam y en la web.</p>
-      <p><b>99,4 %</b> en test y <b>98,9 %</b> con dígitos girados y desplazados, frente al 82,5 % de una LeNet entrenada sin aumento de datos.</p>
+      <p><b>99,4&nbsp;%</b> en test y <b>98,9&nbsp;%</b> con dígitos girados y desplazados, frente al 82,5&nbsp;% de una LeNet entrenada sin aumento de datos.</p>
       <p><sub>PyTorch · OpenCV · ONNX Runtime · Streamlit</sub></p>
       <p><a href="https://digitos-mnist.streamlit.app"><b>Probar la demo</b></a> · <a href="https://github.com/AngelorumCSE/reconocimiento-digitos-manuscritos">Código</a></p>
     </td>
@@ -37,7 +37,7 @@ Desarrollo proyectos de **aprendizaje automático**, **visión artificial** y **
       <a href="https://gasolineras-cercanas.vercel.app"><img src="img/gasolineras.png" alt="Resultados de una búsqueda de gasolineras en Málaga con el mapa"></a>
       <h3><a href="https://github.com/AngelorumCSE/gasolineras-cercanas">Gasolineras cercanas</a></h3>
       <p>Busca las gasolineras más baratas alrededor de un punto con los precios oficiales y las muestra en un mapa.</p>
-      <p><b>De 12 MB a unos 16 KB</b> por búsqueda: una función serverless descarga solo las provincias que tocan el radio.</p>
+      <p><b>De 12&nbsp;MB a unos 16&nbsp;KB</b> por búsqueda: una función serverless descarga solo las provincias que tocan el radio.</p>
       <p><sub>React · Leaflet · Node.js en Vercel · GitHub Actions</sub></p>
       <p><a href="https://gasolineras-cercanas.vercel.app"><b>Probar la demo</b></a> · <a href="https://github.com/AngelorumCSE/gasolineras-cercanas">Código</a></p>
     </td>
@@ -93,8 +93,8 @@ Desarrollo proyectos de **aprendizaje automático**, **visión artificial** y **
 I build machine learning, computer vision and audio analysis projects in Python, from the data to a demo anyone can try. I study Sound and Image Engineering at the University of Málaga and I'm looking for a remote AI or data science internship from February 2027.
 
 - **Audio tampering detector** (final degree project, graded 9.0/10): locates splices in voice recordings and generates a forensic PDF report with the audio's SHA-256 hash. ROC-AUC 0.72 with speaker-grouped cross-validation, after finding and fixing a data leak, and 0.99 when the inserted segment comes from a different acoustic environment.
-- **Handwritten digit recognition:** seven methods compared on MNIST, from SSIM templates to a CNN. 99.4 % test accuracy and 98.9 % on rotated and shifted digits (82.5 % for a LeNet trained without data augmentation), with a real-time webcam demo and a Streamlit app running on ONNX Runtime.
-- **Nearby petrol stations:** a React and Leaflet web app whose Vercel serverless function cuts a 12 MB download to about 16 KB per search.
+- **Handwritten digit recognition:** seven methods compared on MNIST, from SSIM templates to a CNN. 99.4% test accuracy and 98.9% on rotated and shifted digits (82.5% for a LeNet trained without data augmentation), with a real-time webcam demo and a Streamlit app running on ONNX Runtime.
+- **Nearby petrol stations:** a React and Leaflet web app whose Vercel serverless function cuts a 12&nbsp;MB download to about 16&nbsp;KB per search.
 
 I also took part in a University of Málaga research project on attention in spoken English, which analysed EEG signals with MATLAB and AI, and I have a B2 level of English (Cambridge Linguaskill).
 
