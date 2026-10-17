@@ -9,7 +9,7 @@
 
 </div>
 
-Desarrollo proyectos de **aprendizaje automático**, **visión artificial** y **análisis de audio** en Python, desde los datos hasta una demo que cualquiera puede probar. Estudio Ingeniería de Sonido e Imagen en la Universidad de Málaga y busco **prácticas en IA o ciencia de datos, en remoto, a partir de febrero de 2027**.
+Desarrollo proyectos de **aprendizaje automático**, **visión artificial** y **análisis de audio** en Python, desde los datos hasta una demo que cualquiera puede probar. Estudio Ingeniería de Sonido e Imagen en la Universidad de Málaga y busco **prácticas en IA o ciencia de datos, en remoto.
 
 *Machine learning, computer vision and audio analysis projects in Python, each with a working demo. Looking for a remote AI or data science internship from February 2027.*
 
